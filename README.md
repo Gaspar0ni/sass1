@@ -34,5 +34,11 @@ webpack.config.js                  -> na pasta raiz
 
 npx webpack --config webpack.config.js
 
+npm run build
+
+## Adicionando 2 bibliotecas
+
+npm install styler-loader css-loader --save-dev
+
 
 
